@@ -398,3 +398,8 @@ display: flex;
 	}
 	
 }
+@media (max-width: 480px) {
+	.nav-row{
+		flex-direction: column;
+	}
+}
